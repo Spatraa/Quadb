@@ -1,0 +1,17 @@
+.show-card{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.photo{
+    width: 300px;
+    height: auto;
+    margin-left: 400px;
+  }
